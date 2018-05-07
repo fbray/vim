@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/brayfe/.atom'
+let g:netrw_dirhist_2='/Applications/MAMP/bin/phpMyAdmin'
+let g:netrw_dirhist_3='/Applications/MAMP/bin/php/php5.6.32/conf'
+let g:netrw_dirhist_4='/Users/brayfe/sites/drupal-7.x-dev/sites/default'
+let g:netrw_dirhist_5='/Users/brayfe/sites/drupal-7.x-dev/sites'
+let g:netrw_dirhist_6='/Users/brayfe/sites/troy-martin/sites/default'
